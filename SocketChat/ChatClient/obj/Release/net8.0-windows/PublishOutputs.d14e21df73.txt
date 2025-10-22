@@ -1,0 +1,5 @@
+C:\Users\Selam\Desktop\ödev\ChatClient\bin\Release\net8.0-windows\publish\ChatClient.exe
+C:\Users\Selam\Desktop\ödev\ChatClient\bin\Release\net8.0-windows\publish\ChatClient.dll
+C:\Users\Selam\Desktop\ödev\ChatClient\bin\Release\net8.0-windows\publish\ChatClient.deps.json
+C:\Users\Selam\Desktop\ödev\ChatClient\bin\Release\net8.0-windows\publish\ChatClient.runtimeconfig.json
+C:\Users\Selam\Desktop\ödev\ChatClient\bin\Release\net8.0-windows\publish\ChatClient.pdb
