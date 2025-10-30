@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Selam\\Desktop\\ödev\\ChatServer\\ChatServer.csproj": {}
+    "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatServer\\ChatServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Selam\\Desktop\\ödev\\ChatServer\\ChatServer.csproj": {
+    "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatServer\\ChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Selam\\Desktop\\ödev\\ChatServer\\ChatServer.csproj",
+        "projectUniqueName": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatServer\\ChatServer.csproj",
         "projectName": "ChatServer",
-        "projectPath": "C:\\Users\\Selam\\Desktop\\ödev\\ChatServer\\ChatServer.csproj",
+        "projectPath": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatServer\\ChatServer.csproj",
         "packagesPath": "C:\\Users\\Selam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Selam\\Desktop\\ödev\\ChatServer\\obj\\",
+        "outputPath": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

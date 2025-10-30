@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Selam\\Desktop\\ödev\\ChatClient\\ChatClient.csproj",
+      "projectUniqueName": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatClient\\ChatClient.csproj",
       "projectName": "ChatClient",
-      "projectPath": "C:\\Users\\Selam\\Desktop\\ödev\\ChatClient\\ChatClient.csproj",
+      "projectPath": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatClient\\ChatClient.csproj",
       "packagesPath": "C:\\Users\\Selam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Selam\\Desktop\\ödev\\ChatClient\\obj\\",
+      "outputPath": "C:\\Users\\Selam\\Desktop\\NTP ödevleri\\SocketChat\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
